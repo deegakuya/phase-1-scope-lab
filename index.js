@@ -2,7 +2,7 @@
 // Declare a variable in global scope called customerName using the var keyword.
 var customerName = 'bob';
 
-// Write a function that accesses the global customerName variable and uppercases it.
+// Write a function that accesses the global customerName variable and uppercases it. 2
 function upperCaseCustomerName() {
   customerName = customerName.toUpperCase();
 }
